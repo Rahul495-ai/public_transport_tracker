@@ -1,11 +1,17 @@
-Public Transport Tracker
+ Public Transport Tracker
 
 A frontend-only web application that simulates real-time bus movement on interactive maps.  
 It shows live ETAs, current stop, next stop, and automatically pans the map to follow buses.
 
 ---
 
-Features
+ Live Demo
+
+Check out the live site here: [Public Transport Tracker](https://rahul495-ai.github.io/public_transport_tracker/)
+
+---
+
+ Features
 
 - Interactive map with routes and stops using **Leaflet.js**
 - Multiple buses moving independently along routes
@@ -19,14 +25,11 @@ Features
  Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, React.js
-- **Mapping:** Leaflet.js (for interactive maps)
-- **Hosting (Optional):** GitHub Pages
+- **Mapping:** Leaflet.js
+- **Hosting:** GitHub Pages
 
 ---
 
- Project Structure
 
- public-transport-tracker/
-├── index.html
-├── style.css
-└── script.js
+## 📁 Project Structure
+
